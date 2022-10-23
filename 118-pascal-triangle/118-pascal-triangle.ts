@@ -1,6 +1,9 @@
 // https://leetcode.com/problems/pascals-triangle/
 
 
+// * WIP - Not final yet
+
+
 const generate = (numRows: number): number[][] => {
   
   const pascalTree: number[][] = [];
